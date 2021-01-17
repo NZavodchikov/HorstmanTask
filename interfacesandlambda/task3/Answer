@@ -1,0 +1,3 @@
+Для класса String реализует интерфейсы java.io.Serializable, Comparable<String>, CharSequence и наследуется от Object
+Для класса Scanner реализует интерфейсы Iterator<String>, Closeable и наследуется от Object
+Для класса ImageOutputStream наследует интерфейсы ImageInputStream(DataInput, Closable, AutoClosable, DataOutput) и DataOutput

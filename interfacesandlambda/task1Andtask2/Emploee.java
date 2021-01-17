@@ -1,5 +1,7 @@
 package com.nzavod.interfacesandlambda.task1Andtask2;
-
+/*
+В этой задаче реализовано то что требуется в первой и второй задачах
+ */
 public class Emploee implements Measurable {
     private String position;
     private double salary;
